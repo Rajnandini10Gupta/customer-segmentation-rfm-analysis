@@ -29,7 +29,7 @@ This project analyzes customer purchasing behavior using Recency, Frequency, and
 
 ## Dashboard Preview
 
-![RFM Customer Segmentation Dashboard](Documentation/rfm_dashboard.png)
+![RFM Customer Segmentation Dashboard](rfm_dashboard.png.png)
 
 
 ## Dataset
