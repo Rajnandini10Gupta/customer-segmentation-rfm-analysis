@@ -27,6 +27,11 @@ This project analyzes customer purchasing behavior using Recency, Frequency, and
 - Segment-level monetary value comparison
 - Segment dropdown for interactive filtering
 
+## Dashboard Preview
+
+![RFM Customer Segmentation Dashboard](Documentation/rfm_dashboard.png)
+
+
 ## Dataset
 The analysis uses a transaction dataset containing customer IDs, purchase dates, transaction amounts, order IDs, product information, and location.
 
@@ -35,8 +40,8 @@ The analysis uses a transaction dataset containing customer IDs, purchase dates,
 - `rfm_data.cleaned.xlsx` — cleaned dataset
 - `rfm analysis.sql` — SQL analysis script
 - `python_analysis/` — Python analysis and output files
-- `RFM_Customer_Segmentation_Dashboard.pbix` — Power BI dashboard
-- `documentation/` — project documentation and screenshots
+- `RFM Customer Segmentation Dashboard.pbix` — Power BI dashboard
+- `Documentation/` — project documentation and screenshots
 
 ## Key Takeaway
 RFM analysis helps identify high-value customers, loyal customers, and customers who may need re-engagement. These segments can guide targeted marketing and customer retention efforts.
